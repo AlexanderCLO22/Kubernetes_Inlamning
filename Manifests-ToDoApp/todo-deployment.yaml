@@ -14,7 +14,7 @@ spec:
    spec:
      containers:
      - name: todo-container
-       image: ghcr.io/aleoje/kubtodoapp:1c51e229e83122c477bdf7ea70aa4f55afda7c26
+       image: ghcr.io/alexanderclo22/kubtodoapp:1c51e229e83122c477bdf7ea70aa4f55afda7c26
        ports:
        - containerPort: 80
        envFrom: 
